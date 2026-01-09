@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Breathe",
+  "description": "A minimalist breathing meditation app with customizable hold times, visual cues, and progress tracking.",
+  "requestFramePermissions": []
+}
